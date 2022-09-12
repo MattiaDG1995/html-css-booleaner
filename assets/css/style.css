@@ -34,5 +34,57 @@
     margin-top: 20px;
  }
 
+ h3{
+   margin-top: 20px;
+ }
+
+ ul{
+   margin-top: 20px;
+ }
+
+ table{
+   text-align: left;
+   margin-top: 20px;
+   border-spacing: 0;
+ }
+
+ .tabella{
+   width: 15vw;
+ }
+
+ thead{
+   background-color: rgb(32, 169, 229);
+ }
+
+ .riga{
+   background-color:rgb(177, 229, 242) ;
+ }
+
+.minititle{
+   margin-top: 30px;
+}
+
+.immagine1{
+   background-image: url('../img/monitor.jpg');
+   background-size: cover;
+   width: 10vw;
+   aspect-ratio: 4/3;
+   margin-top: 10px;
+}
+
+.immagine2{
+   background-image: url('../img/graph.jpg');
+   background-size: cover;
+   width: 10vw;
+   aspect-ratio: 4/3;
+   margin-top: 10px;
+}
+
+h5{
+   color: white;
+   text-align: center;
+   padding: 4px;
+}
+
 
  
